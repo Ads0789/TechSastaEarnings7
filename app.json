@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "TechSastaRebuild",
+    "slug": "techsasta-rebuild",
+    "owner": "nehanuj143",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.nehanuj143.techsastaappv2"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1f7f0600-3b89-4802-a0d0-9de0cd5ca3dd"
+      }
+    }
+  }
+}
