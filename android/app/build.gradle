@@ -87,9 +87,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.nehanuj143.techsastaappv2'
+    namespace 'com.nehanuj143.techsastaearningsapp'
     defaultConfig {
-        applicationId 'com.nehanuj143.techsastaappv2'
+        applicationId 'com.nehanuj143.techsastaearningsapp'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package com.nehanuj143.techsastaappv2
+package com.nehanuj143.techsastaearningsapp
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.nehanuj143.techsastaappv2
+package com.nehanuj143.techsastaearningsapp
 
 import android.app.Application
 import android.content.res.Configuration
